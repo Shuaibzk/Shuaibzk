@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi there, meet me, SHUAIB!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I am currently a computer science student from BRAC University who is really interested in App Development, Machine Learning, Robotics, Pygame and many more. 
+
+
+- :anchor: I’m currently working on Mars Rover Building with [MongolTori](https://www.bracu-mongoltori.com/) and my Goal is to become expert in this field to crack [URC](https://urc.marssociety.org/). (Keep me in your prayers) 
+- 🌌 I have been learning Android App Development using [Kotlin](https://kotlinlang.org/) and [Android Studio](https://developer.android.com/studio) for a while now. Recently developed an [Parking Lot Booking App](https://github.com/Shuaibzk/Park_IT) with integrated api of [Google Maps](https://maps.google.com/). 
+- ✨ I’m also getting my head around ROS2/Robot Operating System and Arduino. Check it out [here](https://github.com/Shuaibzk/ros2_ws).
+- ❤️ I love my country and to do something for my courtry is my biggest dream! So, I decided to work on CCTV surveillance to increase security of the society. [CCTV Threat Detection System](https://github.com/Shuaibzk/CCTV-Threat-Detection-System) is an incomplete part of it and currently working to improve it. Suggest me anything!!
 <!--
 **Shuaibzk/Shuaibzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
